@@ -1,11 +1,11 @@
 ---
 post_title: '23 oct 2019 New Post'
 layout: post
-published: future
+published: scheduled
 userlogin:  sivyel
 tags: firsttag, secondTag,  thirdTag
 categories: firstcat, secondcat, thirdcat
 newt: 10-15-2019
 
 ---
-Test Content 
+Test Content 22
